@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" fill="none">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#9c7229" stop-opacity="0"/>
+      <stop offset=".22" stop-color="#d4a94f"/>
+      <stop offset=".5" stop-color="#f8e3a1"/>
+      <stop offset=".78" stop-color="#c89a45"/>
+      <stop offset="1" stop-color="#9c7229" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="f" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d1d1d"/>
+      <stop offset="1" stop-color="#0b0b0b"/>
+    </linearGradient>
+    <radialGradient id="o" cx=".5" cy=".5" r=".5" fx=".34" fy=".3">
+      <stop offset="0" stop-color="#fff7da"/>
+      <stop offset=".28" stop-color="#f1d089"/>
+      <stop offset=".65" stop-color="#c3923f"/>
+      <stop offset="1" stop-color="#5e421a"/>
+    </radialGradient>
+  </defs>
+  <g transform="rotate(180 400.0 250.0)">
+    
+    <g stroke="url(#g)" stroke-width="1.1">
+    <path d="M-40 470.0 C190 300.0 470 520.0 840 150.0" stroke-opacity="0.35"/>
+    <path d="M-40 471.9 C190 311.0 470 505.7 840 154.3" stroke-opacity="0.44"/>
+    <path d="M-40 473.8 C190 321.9 470 491.4 840 158.6" stroke-opacity="0.53"/>
+    <path d="M-40 475.7 C190 332.9 470 477.1 840 162.9" stroke-opacity="0.61"/>
+    <path d="M-40 477.6 C190 343.8 470 462.9 840 167.1" stroke-opacity="0.69"/>
+    <path d="M-40 479.5 C190 354.8 470 448.6 840 171.4" stroke-opacity="0.76"/>
+    <path d="M-40 481.4 C190 365.7 470 434.3 840 175.7" stroke-opacity="0.82"/>
+    <path d="M-40 483.3 C190 376.7 470 420.0 840 180.0" stroke-opacity="0.87"/>
+    <path d="M-40 485.2 C190 387.6 470 405.7 840 184.3" stroke-opacity="0.91"/>
+    <path d="M-40 487.1 C190 398.6 470 391.4 840 188.6" stroke-opacity="0.93"/>
+    <path d="M-40 489.0 C190 409.5 470 377.1 840 192.9" stroke-opacity="0.95"/>
+    <path d="M-40 491.0 C190 420.5 470 362.9 840 197.1" stroke-opacity="0.95"/>
+    <path d="M-40 492.9 C190 431.4 470 348.6 840 201.4" stroke-opacity="0.93"/>
+    <path d="M-40 494.8 C190 442.4 470 334.3 840 205.7" stroke-opacity="0.91"/>
+    <path d="M-40 496.7 C190 453.3 470 320.0 840 210.0" stroke-opacity="0.87"/>
+    <path d="M-40 498.6 C190 464.3 470 305.7 840 214.3" stroke-opacity="0.82"/>
+    <path d="M-40 500.5 C190 475.2 470 291.4 840 218.6" stroke-opacity="0.76"/>
+    <path d="M-40 502.4 C190 486.2 470 277.1 840 222.9" stroke-opacity="0.69"/>
+    <path d="M-40 504.3 C190 497.1 470 262.9 840 227.1" stroke-opacity="0.61"/>
+    <path d="M-40 506.2 C190 508.1 470 248.6 840 231.4" stroke-opacity="0.53"/>
+    <path d="M-40 508.1 C190 519.0 470 234.3 840 235.7" stroke-opacity="0.44"/>
+    <path d="M-40 510.0 C190 530.0 470 220.0 840 240.0" stroke-opacity="0.35"/>
+    </g>
+  </g>
+  <circle cx="560" cy="92" r="10" fill="url(#o)"/>
+  <circle cx="250" cy="40" r="4" fill="url(#o)"/>
+</svg>
